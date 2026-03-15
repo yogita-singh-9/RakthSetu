@@ -1,0 +1,11 @@
+env/
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.vscode/
+*.sqlite3
+codekumbh-5318d-firebase-adminsdk-fbsvc-4c5adb8c4c.json
